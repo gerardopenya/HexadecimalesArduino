@@ -1,0 +1,4 @@
+este es e, c \\\
+contenido del archivo
+es necesario borrarlos del proyecto
+solo son pruebas para el uso de github
