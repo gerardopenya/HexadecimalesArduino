@@ -1,1 +1,2 @@
 archivo a ser borrado
+le acabo de agregar esto para simular comits que no se tienen localmente
